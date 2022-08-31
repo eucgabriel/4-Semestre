@@ -10,7 +10,7 @@ namespace MvcMovie.Controllers
         {
             return "Hello World";
         }  
-        public string Hello()
+        public string welcome()
        {
         return "Hello World";
        }
